@@ -1,0 +1,9 @@
+{
+  "name": "Electromagnetism Interactive",
+  "short_name": "EM-Interactive",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a202c",
+  "theme_color": "#667eea",
+  "icons": []
+}
